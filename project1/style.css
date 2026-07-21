@@ -113,3 +113,23 @@ img {
 #img5 {
     transform: translate(-50%, -50%) rotate();
 }
+
+.leftBottom {
+    font-family: "Josefin Sans", sans-serif;
+    position: absolute;
+    font-weight: 400;
+    bottom: 5%;
+    left: 2%;
+}
+
+.bottomRight {
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+}
+
+#btmmm {
+    font-size: 15px;
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 400;
+}
